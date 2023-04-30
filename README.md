@@ -1,2 +1,2 @@
-# storeorder_query
+# SQL query
 SQL queries on a store orders dataset
